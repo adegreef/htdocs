@@ -1,0 +1,10 @@
+
+
+bootstrap & navbar:
+
+https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+
+connect mysql:
+
+https://www.w3schools.com/php/php_mysql_connect.asp
+
